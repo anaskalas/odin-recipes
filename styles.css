@@ -1,0 +1,23 @@
+.background {
+    background-color: rgba(160, 95, 5, 0.374);
+}
+
+ul {
+    Font-size: 25px ;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+#white{
+    color:white;
+}
+
+
+button{
+   width:100px;
+   height:auto; 
+   background-color:black;
+   Color:rgba(197, 16, 210, 0.604);
+}
