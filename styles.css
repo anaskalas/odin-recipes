@@ -14,10 +14,21 @@ h1 {
     color:white;
 }
 
-
 button{
    width:100px;
    height:auto; 
    background-color:black;
    Color:rgba(197, 16, 210, 0.604);
+}
+
+.highlight{
+    color:blue;
+}
+
+div { 
+    padding: 30px;
+    text-align: center; 
+    margin-bottom: 15px;
+    color: #548CA8;
+    outline: black;
 }
